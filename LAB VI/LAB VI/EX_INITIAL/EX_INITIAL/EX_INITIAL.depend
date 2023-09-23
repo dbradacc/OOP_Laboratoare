@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1680248024 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab vi\lab vi\ex_initial\ex_initial\complex.cpp
+	"complex.h"
+
+1680248242 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab vi\lab vi\ex_initial\ex_initial\complex.h
+
+1680248423 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab vi\lab vi\ex_initial\ex_initial\test_complex.cpp
+	<iostream>
+	"complex.h"
+

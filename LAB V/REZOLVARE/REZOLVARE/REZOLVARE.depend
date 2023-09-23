@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1679622205 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\laborator v\rezolvare\rezolvare\dreapta.cpp
+	"dreapta.h"
+	<iostream>
+
+1679622164 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\laborator v\rezolvare\rezolvare\dreapta.h
+	"punct.h"
+
+1679622863 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\laborator v\rezolvare\rezolvare\punct.h
+	<iostream>
+
+1679625805 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab v\rezolvare\rezolvare\dreapta.cpp
+	"dreapta.h"
+	<iostream>
+
+1679625764 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab v\rezolvare\rezolvare\dreapta.h
+	"punct.h"
+
+1679626463 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab v\rezolvare\rezolvare\punct.h
+	<iostream>
+

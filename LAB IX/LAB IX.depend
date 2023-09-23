@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1683140173 source:c:\users\cataf\onedrive\desktop\lab ix\datetime.cpp
+	"DateTime.h"
+	<iostream>
+
+1683140250 c:\users\cataf\onedrive\desktop\lab ix\datetime.h
+	"Time.h"
+
+1683140249 c:\users\cataf\onedrive\desktop\lab ix\time.h
+	<iostream>
+
+1683140224 source:c:\users\cataf\onedrive\desktop\lab ix\time.cpp
+	"Time.h"
+	<iostream>
+
+1683143190 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab ix\datetime.cpp
+	"DateTime.h"
+	<iostream>
+
+1683143190 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab ix\datetime.h
+	"Time.h"
+
+1683143190 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab ix\time.h
+	<iostream>
+
+1683143190 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab ix\main.cpp
+	<iostream>
+	"Time.h"
+	"DateTime.h"
+
+1683143190 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab ix\time.cpp
+	"Time.h"
+	<iostream>
+

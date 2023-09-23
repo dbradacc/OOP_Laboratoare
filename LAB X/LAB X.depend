@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1683142444 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab x\lab x\main.cpp
+	<iostream>
+	"Point.h"
+	"Circle.h"
+	"Cylinder.h"
+
+1683142444 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab x\lab x\point.h
+
+1683142444 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab x\lab x\circle.h
+	"Point.h"
+
+1683142444 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab x\lab x\cylinder.h
+	"Circle.h"
+
+1683142813 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab x\circle.cpp
+	"Circle.h"
+	<cmath>
+
+1683142813 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab x\circle.h
+	"Point.h"
+
+1683142813 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab x\point.h
+
+1683142813 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab x\cylinder.cpp
+	"Cylinder.h"
+	<cmath>
+
+1683142813 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab x\cylinder.h
+	"Circle.h"
+
+1683142813 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab x\main.cpp
+	<iostream>
+	"Point.h"
+	"Circle.h"
+	"Cylinder.h"
+
+1683142813 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab x\point.cpp
+	"Point.h"
+

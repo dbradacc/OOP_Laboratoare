@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1680785964 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab vii\exercitiu initial\employee.cpp
+	"Employee.h"
+
+1680786005 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab vii\exercitiu initial\employee.h
+	<iostream>
+
+1680786003 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab vii\exercitiu initial\hourlyworker.cpp
+	"HourlyWorker.h"
+	<iomanip>
+
+1680785980 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab vii\exercitiu initial\hourlyworker.h
+	"Employee.h"
+	<iostream>
+
+1680785916 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\lab vii\exercitiu initial\main.cpp
+	"HourlyWorker.h"
+
